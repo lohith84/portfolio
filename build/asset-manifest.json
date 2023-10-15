@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df36324c.css",
+    "main.js": "/static/js/main.58c81fd7.js",
+    "static/media/book.png": "/static/media/book.ece11b4386c392b21334.png",
+    "static/media/rat-maze.png": "/static/media/rat-maze.22d1d6f3f84abafb8a78.png",
+    "static/media/home.png": "/static/media/home.fb53dfc83277672fb702.png",
+    "static/media/core.jpg": "/static/media/core.6de9eb128e27a8aa4cfc.jpg",
+    "static/media/temp-door.png": "/static/media/temp-door.07f8a157eacb24dd381e.png",
+    "static/media/qr.jpg": "/static/media/qr.15cc46a311bd15a143ce.jpg",
+    "static/media/tic-tac-toe.jpg": "/static/media/tic-tac-toe.3cf82fc256a0113fde5c.jpg",
+    "static/media/about.png": "/static/media/about.198699230e4d57187937.png",
+    "static/media/contact.png": "/static/media/contact.76ce6a552357421dfb99.png",
+    "static/media/webd.jpg": "/static/media/webd.55cc78655cbeb7b1547b.jpg",
+    "static/media/insta-clone.jpg": "/static/media/insta-clone.09005f4558e56baa38ad.jpg",
+    "static/media/simon-game.jpeg": "/static/media/simon-game.14d7cf5475479ee4960e.jpeg",
+    "static/media/coding.jpg": "/static/media/coding.c76c6d7fab55b88cdd0e.jpg",
+    "static/media/weather.jpg": "/static/media/weather.1f27f8033dd444f19724.jpg",
+    "static/media/logo-no-background.svg": "/static/media/logo-no-background.c4141ff794af50101509.svg",
+    "static/media/school.svg": "/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "static/media/work.svg": "/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "index.html": "/index.html",
+    "main.df36324c.css.map": "/static/css/main.df36324c.css.map",
+    "main.58c81fd7.js.map": "/static/js/main.58c81fd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df36324c.css",
+    "static/js/main.58c81fd7.js"
+  ]
+}
